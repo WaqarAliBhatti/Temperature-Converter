@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+img:hover{
+    cursor: pointer;
+}
+div img{
+    margin-top: 20px;
+}
